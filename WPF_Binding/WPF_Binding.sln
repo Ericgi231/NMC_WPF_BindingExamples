@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "Collection\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection2", "Collection2\Collection2.csproj", "{9BAF6E78-8EE0-4C13-8EEB-99E70A4EFF80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTemplates", "DataTemplates\DataTemplates.csproj", "{17F413FF-06E1-4E49-AFE6-7C2C9F4606BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueConverters", "ValueConverters\ValueConverters.csproj", "{7CFDB29C-3823-4821-B5DC-39EC36F15E60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{9BAF6E78-8EE0-4C13-8EEB-99E70A4EFF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BAF6E78-8EE0-4C13-8EEB-99E70A4EFF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BAF6E78-8EE0-4C13-8EEB-99E70A4EFF80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F413FF-06E1-4E49-AFE6-7C2C9F4606BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F413FF-06E1-4E49-AFE6-7C2C9F4606BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F413FF-06E1-4E49-AFE6-7C2C9F4606BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F413FF-06E1-4E49-AFE6-7C2C9F4606BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CFDB29C-3823-4821-B5DC-39EC36F15E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFDB29C-3823-4821-B5DC-39EC36F15E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFDB29C-3823-4821-B5DC-39EC36F15E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFDB29C-3823-4821-B5DC-39EC36F15E60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
